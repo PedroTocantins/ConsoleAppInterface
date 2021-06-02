@@ -1,0 +1,12 @@
+C:\projetos\ams\GameAMS\GameAMS\GameAMS.Interface\bin\Debug\net5.0\GameAMS.Interface.deps.json
+C:\projetos\ams\GameAMS\GameAMS\GameAMS.Interface\bin\Debug\net5.0\GameAMS.Interface.dll
+C:\projetos\ams\GameAMS\GameAMS\GameAMS.Interface\bin\Debug\net5.0\ref\GameAMS.Interface.dll
+C:\projetos\ams\GameAMS\GameAMS\GameAMS.Interface\bin\Debug\net5.0\GameAMS.Interface.pdb
+C:\projetos\ams\GameAMS\GameAMS\GameAMS.Interface\obj\Debug\net5.0\GameAMS.Interface.csprojAssemblyReference.cache
+C:\projetos\ams\GameAMS\GameAMS\GameAMS.Interface\obj\Debug\net5.0\GameAMS.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ams\GameAMS\GameAMS\GameAMS.Interface\obj\Debug\net5.0\GameAMS.Interface.AssemblyInfoInputs.cache
+C:\projetos\ams\GameAMS\GameAMS\GameAMS.Interface\obj\Debug\net5.0\GameAMS.Interface.AssemblyInfo.cs
+C:\projetos\ams\GameAMS\GameAMS\GameAMS.Interface\obj\Debug\net5.0\GameAMS.Interface.csproj.CoreCompileInputs.cache
+C:\projetos\ams\GameAMS\GameAMS\GameAMS.Interface\obj\Debug\net5.0\GameAMS.Interface.dll
+C:\projetos\ams\GameAMS\GameAMS\GameAMS.Interface\obj\Debug\net5.0\ref\GameAMS.Interface.dll
+C:\projetos\ams\GameAMS\GameAMS\GameAMS.Interface\obj\Debug\net5.0\GameAMS.Interface.pdb

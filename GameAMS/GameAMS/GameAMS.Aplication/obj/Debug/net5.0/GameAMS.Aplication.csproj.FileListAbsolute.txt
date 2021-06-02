@@ -1,0 +1,5 @@
+C:\projetos\ams\GameAMS\GameAMS\GameAMS.Aplication\obj\Debug\net5.0\GameAMS.Aplication.csprojAssemblyReference.cache
+C:\projetos\ams\GameAMS\GameAMS\GameAMS.Aplication\obj\Debug\net5.0\GameAMS.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ams\GameAMS\GameAMS\GameAMS.Aplication\obj\Debug\net5.0\GameAMS.Aplication.AssemblyInfoInputs.cache
+C:\projetos\ams\GameAMS\GameAMS\GameAMS.Aplication\obj\Debug\net5.0\GameAMS.Aplication.AssemblyInfo.cs
+C:\projetos\ams\GameAMS\GameAMS\GameAMS.Aplication\obj\Debug\net5.0\GameAMS.Aplication.csproj.CoreCompileInputs.cache
